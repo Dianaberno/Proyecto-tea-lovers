@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+header {
+  height: 520px; }
+
+nav {
+  height: 100px; }
+
+header .welcome {
+  margin: auto;
+  margin-top: 20px;
+  height: 500px;
+  width: 100%;
+  position: relative; }
+
+.primero {
+  margin-top: 400px;
+  background-color: black;
+  position: relative; }
+
+.segundo {
+  margin-top: 0px;
+  position: relative; }
+
+.segundo .card-img-overlay {
+  margin: auto; }
+
+.tercero h2 {
+  color: #E091B6; }
+
+footer {
+  background-color: #3B3B3B; }
+
+footer #pie {
+  color: #ADA0A0;
+  margin: auto;
+  bottom: 40px; }
+
+/*# sourceMappingURL=main.css.map */
